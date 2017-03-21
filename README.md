@@ -11,14 +11,14 @@
 所以在原来作者的基础之上做了小的调整 (主要是监听输入的内容的变化)
 
 
-# vue-ace
+# vue-brace
 
 A Vue2 component for including the [ace editor](https://ace.c9.io/).
 
 ### 安装
 
 ```
-npm install -save vue-ace
+npm install -save vue-brace
 ```
 
 ### 怎么使用
