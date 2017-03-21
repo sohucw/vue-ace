@@ -109,5 +109,9 @@ methods: {
 ### 效果
 
 
+![demo](https://github.com/sohucw/vue-ace/blob/master/demo.png)
+
+
+
 
 
