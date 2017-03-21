@@ -107,9 +107,9 @@ methods: {
 </script>
 ```
 ### 效果
+demo引入了JavaScript的语法和主题 你也可以引入其他的 比如 java php sql   主题可用 chrome的
 
-
-![demo](https://github.com/sohucw/vue-ace/blob/master/demo.png)
+![demo](https://github.com/sohucw/vue-ace/raw/master/demo.png)
 
 
 
